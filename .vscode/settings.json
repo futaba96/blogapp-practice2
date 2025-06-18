@@ -1,0 +1,6 @@
+{
+  // Rails用語のスペルチェックを無視するため
+  "cSpell.words": [
+    "activerecord"
+  ]
+}
